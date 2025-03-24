@@ -1,0 +1,2211 @@
+{
+  "istasyonlar": [
+    {
+      "ad": "Kabataş",
+      "lat": "41.0338745666",
+      "lon": "28.9922350785"
+    },
+    {
+      "ad": "Taksim",
+      "lat": "41.0366994647",
+      "lon": "28.9868190279"
+    },
+    {
+      "ad": "Aşiyan",
+      "lat": "41.0815736348652",
+      "lon": "29.05422416736053"
+    },
+    {
+      "ad": "Boğaziçi Ü./Hisarüstü",
+      "lat": "41.08486726284434",
+      "lon": "29.051021003065568"
+    },
+    {
+      "ad": "Atatürk Havalimanı",
+      "lat": "40.9795429431",
+      "lon": "28.8211244027"
+    },
+    {
+      "ad": "DTM-İstanbul Fuar Merkezi",
+      "lat": "40.9866455145",
+      "lon": "28.8285503243"
+    },
+    {
+      "ad": "Yenibosna",
+      "lat": "40.9893149835",
+      "lon": "28.8367043004"
+    },
+    {
+      "ad": "Ataköy-Şirinevler",
+      "lat": "40.9913500997",
+      "lon": "28.846082309"
+    },
+    {
+      "ad": "Bahçelievler",
+      "lat": "40.9953532384",
+      "lon": "28.8630661969"
+    },
+    {
+      "ad": "Bakırköy-İncirli",
+      "lat": "40.9966121333",
+      "lon": "28.8753997556"
+    },
+    {
+      "ad": "Zeytinburnu",
+      "lat": "41.0017008338",
+      "lon": "28.8896520683"
+    },
+    {
+      "ad": "Merter",
+      "lat": "41.0076458753",
+      "lon": "28.8961771147"
+    },
+    {
+      "ad": "Davutpaşa-YTÜ",
+      "lat": "41.0206387059",
+      "lon": "28.9001417888"
+    },
+    {
+      "ad": "Terazidere",
+      "lat": "41.0303317032",
+      "lon": "28.8979522419"
+    },
+    {
+      "ad": "Otogar",
+      "lat": "41.0401441651",
+      "lon": "28.8945600984"
+    },
+    {
+      "ad": "Kocatepe",
+      "lat": "41.0484928183",
+      "lon": "28.8953862076"
+    },
+    {
+      "ad": "Sağmalcılar",
+      "lat": "41.0408544497",
+      "lon": "28.9072352877"
+    },
+    {
+      "ad": "Bayrampaşa-Maltepe",
+      "lat": "41.0340978572",
+      "lon": "28.920238689"
+    },
+    {
+      "ad": "Topkapı-Ulubatlı",
+      "lat": "41.0240250582",
+      "lon": "28.9305034257"
+    },
+    {
+      "ad": "Emniyet-Fatih",
+      "lat": "41.0176115439",
+      "lon": "28.9395963977"
+    },
+    {
+      "ad": "Aksaray",
+      "lat": "41.0120281897",
+      "lon": "28.9480625565"
+    },
+    {
+      "ad": "Yenikapı",
+      "lat": "41.004755",
+      "lon": "28.952549"
+    },
+    {
+      "ad": "Kirazlı-Bağcılar",
+      "lat": "41.0322960516",
+      "lon": "28.8427689525"
+    },
+    {
+      "ad": "Bağcılar Meydan",
+      "lat": "41.0345164689",
+      "lon": "28.8561714937"
+    },
+    {
+      "ad": "Üçyüzlü",
+      "lat": "41.036721597",
+      "lon": "28.8706340581"
+    },
+    {
+      "ad": "Menderes",
+      "lat": "41.0427591002",
+      "lon": "28.8784878297"
+    },
+    {
+      "ad": "Esenler",
+      "lat": "41.037682433",
+      "lon": "28.8884222852"
+    },
+    {
+      "ad": "Vezneciler-İstanbul Ü.",
+      "lat": "41.011475",
+      "lon": "28.960705"
+    },
+    {
+      "ad": "Haliç",
+      "lat": "41.0224366195",
+      "lon": "28.9664183343"
+    },
+    {
+      "ad": "Şişhane",
+      "lat": "41.028298",
+      "lon": "28.97285"
+    },
+    {
+      "ad": "Osmanbey",
+      "lat": "41.052955",
+      "lon": "28.987375"
+    },
+    {
+      "ad": "Şişli-Mecidiyeköy",
+      "lat": "41.0645069127",
+      "lon": "28.9926697578"
+    },
+    {
+      "ad": "Gayrettepe",
+      "lat": "41.0690012375",
+      "lon": "29.0109200808"
+    },
+    {
+      "ad": "Levent",
+      "lat": "41.0767734293",
+      "lon": "29.0136876237"
+    },
+    {
+      "ad": "4.Levent",
+      "lat": "41.0860080659",
+      "lon": "29.0070897722"
+    },
+    {
+      "ad": "Sanayi Mahallesi",
+      "lat": "41.0943240181",
+      "lon": "29.0053380126"
+    },
+    {
+      "ad": "Seyrantepe",
+      "lat": "41.100906",
+      "lon": "28.997775"
+    },
+    {
+      "ad": "İTÜ-Ayazağa",
+      "lat": "41.108094796",
+      "lon": "29.0207947235"
+    },
+    {
+      "ad": "Atatürk Oto Sanayi",
+      "lat": "41.1182574386",
+      "lon": "29.0241897659"
+    },
+    {
+      "ad": "Darüşşafaka",
+      "lat": "41.1295823098",
+      "lon": "29.0251244919"
+    },
+    {
+      "ad": "Hacıosman",
+      "lat": "41.1397745691",
+      "lon": "29.0304324362"
+    },
+    {
+      "ad": "Bakırköy Sahil",
+      "lat": "40.97380907939043",
+      "lon": "28.86808953853861"
+    },
+    {
+      "ad": "Özgürlük Meydanı",
+      "lat": "40.98184836284361",
+      "lon": "28.873888809703004"
+    },
+    {
+      "ad": "İncirli",
+      "lat": "40.99749718083783",
+      "lon": "28.875149165334438"
+    },
+    {
+      "ad": "Haznedar",
+      "lat": "41.006429380800306",
+      "lon": "28.870525623196162"
+    },
+    {
+      "ad": "İlkyuva",
+      "lat": "41.0117525985906",
+      "lon": "28.865987182720854"
+    },
+    {
+      "ad": "Molla Gürani",
+      "lat": "41.02551147580674",
+      "lon": "28.848112725049546"
+    },
+    {
+      "ad": "Yenimahalle",
+      "lat": "41.0403571945",
+      "lon": "28.8359378583"
+    },
+    {
+      "ad": "Mahmutbey",
+      "lat": "41.0548448863",
+      "lon": "28.8305244805"
+    },
+    {
+      "ad": "İSTOÇ",
+      "lat": "41.0649996532",
+      "lon": "28.8259591715"
+    },
+    {
+      "ad": "İkitelli Sanayi",
+      "lat": "41.0724333906",
+      "lon": "28.8023285305"
+    },
+    {
+      "ad": "Turgut Özal",
+      "lat": "41.0811852568",
+      "lon": "28.7974049311"
+    },
+    {
+      "ad": "Siteler",
+      "lat": "41.0882027223",
+      "lon": "28.7965104065"
+    },
+    {
+      "ad": "Başak Konutları",
+      "lat": "41.0976705948",
+      "lon": "28.7912824671"
+    },
+    {
+      "ad": "Başakşehir-Metrokent",
+      "lat": "41.1075899254",
+      "lon": "28.8014768347"
+    },
+    {
+      "ad": "Onurkent",
+      "lat": "41.11350955222164",
+      "lon": "28.79034835203765"
+    },
+    {
+      "ad": "Şehir Hastanesi",
+      "lat": "41.103457237940475",
+      "lon": "28.777855352037243"
+    },
+    {
+      "ad": "Toplu Konutlar",
+      "lat": "41.1076043981571",
+      "lon": "28.76788272505376"
+    },
+    {
+      "ad": "Kayaşehir Merkez",
+      "lat": "41.12006437207407",
+      "lon": "28.766642996218255"
+    },
+    {
+      "ad": "Kadıköy",
+      "lat": "40.990663811475805",
+      "lon": "29.02200761747134"
+    },
+    {
+      "ad": "Ayrılık Çeşmesi",
+      "lat": "41.00020434433358",
+      "lon": "29.030153258203203"
+    },
+    {
+      "ad": "Acıbadem",
+      "lat": "41.002331976173814",
+      "lon": "29.044498290084867"
+    },
+    {
+      "ad": "Ünalan",
+      "lat": "40.997886812202864",
+      "lon": "29.061370874184917"
+    },
+    {
+      "ad": "Göztepe",
+      "lat": "40.9939284023244",
+      "lon": "29.070446236116393"
+    },
+    {
+      "ad": "Yenisahra",
+      "lat": "40.984973265772204",
+      "lon": "29.090125340335963"
+    },
+    {
+      "ad": "Pegasus-Kozyatağı",
+      "lat": "40.9748528607554",
+      "lon": "29.099330474424526"
+    },
+    {
+      "ad": "Bostancı",
+      "lat": "40.96483843441404",
+      "lon": "29.104601888800143"
+    },
+    {
+      "ad": "Küçükyalı",
+      "lat": "40.94848177811069",
+      "lon": "29.123705678871918"
+    },
+    {
+      "ad": "Maltepe",
+      "lat": "40.93649417481334",
+      "lon": "29.13681462729192"
+    },
+    {
+      "ad": "Huzurevi",
+      "lat": "40.92996421985499",
+      "lon": "29.1469453905599"
+    },
+    {
+      "ad": "Gülsuyu",
+      "lat": "40.92389300760361",
+      "lon": "29.156546529079005"
+    },
+    {
+      "ad": "Esenkent",
+      "lat": "40.920594425063584",
+      "lon": "29.166297696250616"
+    },
+    {
+      "ad": "Hastane-Adliye",
+      "lat": "40.916312335081564",
+      "lon": "29.178430843993343"
+    },
+    {
+      "ad": "Soğanlık",
+      "lat": "40.912789206970004",
+      "lon": "29.192839855288547"
+    },
+    {
+      "ad": "Kartal",
+      "lat": "40.90681782551962",
+      "lon": "29.211026353862238"
+    },
+    {
+      "ad": "Yakacık-Adnan Kahveci",
+      "lat": "40.896729838850625",
+      "lon": "29.226960280320945"
+    },
+    {
+      "ad": "Pendik",
+      "lat": "40.888385865460556",
+      "lon": "29.23816910887322"
+    },
+    {
+      "ad": "Tavşantepe",
+      "lat": "40.88225595122738",
+      "lon": "29.248573155917992"
+    },
+    {
+      "ad": "Fevzi Çakmak-Hastane",
+      "lat": "40.888913773148275",
+      "lon": "29.262377999300135"
+    },
+    {
+      "ad": "Yayalar-Şeyhli",
+      "lat": "40.90415466320274",
+      "lon": "29.275928959686205"
+    },
+    {
+      "ad": "Kurtköy",
+      "lat": "40.91061969898158",
+      "lon": "29.297057446459206"
+    },
+    {
+      "ad": "Sabiha Gökçen Havalimanı",
+      "lat": "40.90597411173135",
+      "lon": "29.310554150804887"
+    },
+    {
+      "ad": "Üsküdar",
+      "lat": "41.025618259645256",
+      "lon": "29.015061927581854"
+    },
+    {
+      "ad": "Fıstıkağacı",
+      "lat": "41.028174185609586",
+      "lon": "29.028549998040898"
+    },
+    {
+      "ad": "Bağlarbaşı",
+      "lat": "41.02148576285262",
+      "lon": "29.035391369205474"
+    },
+    {
+      "ad": "Altunizade",
+      "lat": "41.02256927368503",
+      "lon": "29.045163182699945"
+    },
+    {
+      "ad": "Kısıklı",
+      "lat": "41.02223769603908",
+      "lon": "29.062589925029574"
+    },
+    {
+      "ad": "Bulgurlu",
+      "lat": "41.016382220485276",
+      "lon": "29.07613191178137"
+    },
+    {
+      "ad": "Ümraniye",
+      "lat": "41.02475044117759",
+      "lon": "29.084914619850238"
+    },
+    {
+      "ad": "Çarşı",
+      "lat": "41.025898812622515",
+      "lon": "29.097186268407956"
+    },
+    {
+      "ad": "Yamanevler",
+      "lat": "41.02436045931574",
+      "lon": "29.10893285940382"
+    },
+    {
+      "ad": "Çakmak",
+      "lat": "41.021651794492854",
+      "lon": "29.11831687527492"
+    },
+    {
+      "ad": "Ihlamurkuyu",
+      "lat": "41.0193938740756",
+      "lon": "29.13128274037028"
+    },
+    {
+      "ad": "Altınşehir",
+      "lat": "41.01682949821649",
+      "lon": "29.138624552588546"
+    },
+    {
+      "ad": "İmam Hatip Lisesi",
+      "lat": "41.016188074469916",
+      "lon": "29.15243635386462"
+    },
+    {
+      "ad": "Dudullu",
+      "lat": "41.01544045560607",
+      "lon": "29.16244635386456"
+    },
+    {
+      "ad": "Necip Fazıl",
+      "lat": "41.01620878613601",
+      "lon": "29.17929437105173"
+    },
+    {
+      "ad": "Çekmeköy",
+      "lat": "41.01456617003643",
+      "lon": "29.189447811535"
+    },
+    {
+      "ad": "Meclis",
+      "lat": "41.0097339184714",
+      "lon": "29.198827223504292"
+    },
+    {
+      "ad": "Sarıgazi",
+      "lat": "41.01031088932276",
+      "lon": "29.212121182720836"
+    },
+    {
+      "ad": "Sancaktepe",
+      "lat": "40.99133734652666",
+      "lon": "29.22925491155591"
+    },
+    {
+      "ad": "Samandıra Merkez",
+      "lat": "40.983897557616025",
+      "lon": "29.231410725047297"
+    },
+    {
+      "ad": "Nispetiye",
+      "lat": "41.077692",
+      "lon": "29.022356"
+    },
+    {
+      "ad": "Etiler",
+      "lat": "41.082395",
+      "lon": "29.037593"
+    },
+    {
+      "ad": "Boğaziçi Ü.-Hisarüstü",
+      "lat": "41.085278",
+      "lon": "29.045519"
+    },
+    {
+      "ad": "Yıldız",
+      "lat": "41.055457368403594",
+      "lon": "29.009803051316943"
+    },
+    {
+      "ad": "Fulya",
+      "lat": "41.0619540753492",
+      "lon": "29.007236307110315"
+    },
+    {
+      "ad": "Mecidiyeköy",
+      "lat": "41.0661411",
+      "lon": "28.9945802"
+    },
+    {
+      "ad": "Çağlayan",
+      "lat": "41.07124",
+      "lon": "28.9797905"
+    },
+    {
+      "ad": "Kağıthane",
+      "lat": "41.0799698",
+      "lon": "28.9722495"
+    },
+    {
+      "ad": "Nurtepe",
+      "lat": "41.0796403",
+      "lon": "28.9629489"
+    },
+    {
+      "ad": "Alibeyköy",
+      "lat": "41.0791702",
+      "lon": "28.9493602"
+    },
+    {
+      "ad": "Çırçır Mahallesi",
+      "lat": "41.07985",
+      "lon": "28.93762"
+    },
+    {
+      "ad": "Veysel Karani-Akşemsettin",
+      "lat": "41.0796898",
+      "lon": "28.9295594"
+    },
+    {
+      "ad": "Yeşilpınar",
+      "lat": "41.0799901",
+      "lon": "28.9352699"
+    },
+    {
+      "ad": "Kazım Karabekir",
+      "lat": "41.0854599",
+      "lon": "28.9085497"
+    },
+    {
+      "ad": "Karadeniz Mahallesi",
+      "lat": "41.0815994",
+      "lon": "28.8754204"
+    },
+    {
+      "ad": "Tekstilkent-Giyimkent",
+      "lat": "41.0712997",
+      "lon": "28.8668802"
+    },
+    {
+      "ad": "Oruç Reis",
+      "lat": "41.0633806",
+      "lon": "28.8554406"
+    },
+    {
+      "ad": "Göztepe Mahallesi",
+      "lat": "41.0563991",
+      "lon": "28.8499689"
+    },
+    {
+      "ad": "Emin Ali Paşa",
+      "lat": "40.96054884646437",
+      "lon": "29.09385026231631"
+    },
+    {
+      "ad": "Ayşekadın",
+      "lat": "40.966729619003274",
+      "lon": "29.0868577820603"
+    },
+    {
+      "ad": "Kozyatağı",
+      "lat": "40.97524724462983",
+      "lon": "29.098809408749805"
+    },
+    {
+      "ad": "Küçükbakkalköy",
+      "lat": "40.97913311692388",
+      "lon": "29.111999801732374"
+    },
+    {
+      "ad": "İçerenköy",
+      "lat": "40.979123476347006",
+      "lon": "29.126665087038585"
+    },
+    {
+      "ad": "Kayışdağı",
+      "lat": "40.98552090314198",
+      "lon": "29.137286259239595"
+    },
+    {
+      "ad": "Mevlana",
+      "lat": "40.99236746200459",
+      "lon": "29.153558958239127"
+    },
+    {
+      "ad": "İMES",
+      "lat": "40.99995161943781",
+      "lon": "29.156059357475755"
+    },
+    {
+      "ad": "MODOKO-KEYAP",
+      "lat": "41.00761665286443",
+      "lon": "29.162182913381205"
+    },
+    {
+      "ad": "Huzur",
+      "lat": "41.022498790602256",
+      "lon": "29.15945298159044"
+    },
+    {
+      "ad": "Parseller",
+      "lat": "41.03187863452558",
+      "lon": "29.152689072367757"
+    },
+    {
+      "ad": "Olimpiyat",
+      "lat": "41.07978582261958",
+      "lon": "28.768494442218014"
+    },
+    {
+      "ad": "Ziya Gökalp Mahallesi",
+      "lat": "41.07468683895818",
+      "lon": "28.786425453865895"
+    },
+    {
+      "ad": "MASKO",
+      "lat": "41.064346478553354",
+      "lon": "28.804145099888043"
+    },
+    {
+      "ad": "Bahariye",
+      "lat": "41.058692228126105",
+      "lon": "28.79921854037114"
+    },
+    {
+      "ad": "Atatürk Mahallesi",
+      "lat": "41.05288544691126",
+      "lon": "28.79864644035015"
+    },
+    {
+      "ad": "Halkalı Caddesi",
+      "lat": "41.04552704030184",
+      "lon": "28.80633957331045"
+    },
+    {
+      "ad": "15 Temmuz",
+      "lat": "41.036864",
+      "lon": "28.814156"
+    },
+    {
+      "ad": "Mimar Sinan",
+      "lat": "41.025085",
+      "lon": "28.816549"
+    },
+    {
+      "ad": "Doğu Sanayi",
+      "lat": "41.014893",
+      "lon": "28.817986"
+    },
+    {
+      "ad": "29 Ekim Cumhuriyet",
+      "lat": "41.006215",
+      "lon": "28.818603"
+    },
+    {
+      "ad": "Çobançeşme",
+      "lat": "40.999713",
+      "lon": "28.822589"
+    },
+    {
+      "ad": "Ataköy",
+      "lat": "40.979916",
+      "lon": "28.856218"
+    },
+    {
+      "ad": "Bağcılar",
+      "lat": "41.0330863118",
+      "lon": "28.860647218"
+    },
+    {
+      "ad": "Güneştepe",
+      "lat": "41.0289950489",
+      "lon": "28.860949736"
+    },
+    {
+      "ad": "Yavuzselim",
+      "lat": "41.0238219843",
+      "lon": "28.863651758"
+    },
+    {
+      "ad": "Soğanlı",
+      "lat": "41.0209689646",
+      "lon": "28.8670797269"
+    },
+    {
+      "ad": "Akıncılar",
+      "lat": "41.0173366346",
+      "lon": "28.8710305731"
+    },
+    {
+      "ad": "Güngören",
+      "lat": "41.0152104262",
+      "lon": "28.8775090458"
+    },
+    {
+      "ad": "Merter Tekstil Merkezi",
+      "lat": "41.0115593225",
+      "lon": "28.8807549715"
+    },
+    {
+      "ad": "Mehmet Akif",
+      "lat": "41.00580192",
+      "lon": "28.8816767755"
+    },
+    {
+      "ad": "Mithatpaşa",
+      "lat": "41.003492938",
+      "lon": "28.9014562172"
+    },
+    {
+      "ad": "Seyitnizam-Akşemsettin",
+      "lat": "41.0042150705",
+      "lon": "28.9075130061"
+    },
+    {
+      "ad": "Merkezefendi",
+      "lat": "41.0103922551",
+      "lon": "28.9095014291"
+    },
+    {
+      "ad": "Cevizlibağ-AÖY",
+      "lat": "41.0159557944",
+      "lon": "28.9115738934"
+    },
+    {
+      "ad": "Topkapı",
+      "lat": "41.0192295429",
+      "lon": "28.9194470285"
+    },
+    {
+      "ad": "Pazartekke",
+      "lat": "41.0182661997",
+      "lon": "28.9271526286"
+    },
+    {
+      "ad": "Çapa-Şehremini",
+      "lat": "41.0158833289",
+      "lon": "28.9320271861"
+    },
+    {
+      "ad": "Fındıkzade",
+      "lat": "41.0117062059472",
+      "lon": "28.940655673320745"
+    },
+    {
+      "ad": "Haseki",
+      "lat": "41.0107098606",
+      "lon": "28.9442927851"
+    },
+    {
+      "ad": "Yusufpaşa",
+      "lat": "41.0099988102",
+      "lon": "28.9471169908"
+    },
+    {
+      "ad": "Laleli-İstanbul Ü.",
+      "lat": "41.0095870715",
+      "lon": "28.9597865368"
+    },
+    {
+      "ad": "Beyazıt-Kapalıçarşı",
+      "lat": "41.0090689647",
+      "lon": "28.9666944396"
+    },
+    {
+      "ad": "Çemberlitaş",
+      "lat": "41.0084369787",
+      "lon": "28.9711260369"
+    },
+    {
+      "ad": "Sultanahmet",
+      "lat": "41.0080890263",
+      "lon": "28.9755834871"
+    },
+    {
+      "ad": "Gülhane",
+      "lat": "41.0121648083",
+      "lon": "28.978420569"
+    },
+    {
+      "ad": "Sirkeci",
+      "lat": "41.0151806347",
+      "lon": "28.9758901555"
+    },
+    {
+      "ad": "Eminönü",
+      "lat": "41.0174770208",
+      "lon": "28.9732097738"
+    },
+    {
+      "ad": "Karaköy",
+      "lat": "41.0221165813",
+      "lon": "28.9746840227"
+    },
+    {
+      "ad": "Tophane",
+      "lat": "41.026992487",
+      "lon": "28.9808626704"
+    },
+    {
+      "ad": "Fındıklı-Mimar Sinan Ü.",
+      "lat": "41.0314551495",
+      "lon": "28.9894378694"
+    },
+    {
+      "ad": "İskele Cami",
+      "lat": "40.989941",
+      "lon": "29.022135"
+    },
+    {
+      "ad": "Altıyol",
+      "lat": "40.99003",
+      "lon": "29.029066"
+    },
+    {
+      "ad": "Kilise",
+      "lat": "40.986078",
+      "lon": "29.027885"
+    },
+    {
+      "ad": "Moda İlkokulu",
+      "lat": "40.98411",
+      "lon": "29.026652"
+    },
+    {
+      "ad": "Moda Caddesi",
+      "lat": "40.983932",
+      "lon": "29.024892"
+    },
+    {
+      "ad": "Rızapaşa",
+      "lat": "40.984465405285626",
+      "lon": "29.023221050093916"
+    },
+    {
+      "ad": "Mühürdar",
+      "lat": "40.985098",
+      "lon": "29.021598"
+    },
+    {
+      "ad": "Damga Sokak",
+      "lat": "40.987945",
+      "lon": "29.021009"
+    },
+    {
+      "ad": "Kadıköy İDO",
+      "lat": "40.989273",
+      "lon": "29.020977"
+    },
+    {
+      "ad": "Mescid-i Selam",
+      "lat": "41.116218",
+      "lon": "28.851229"
+    },
+    {
+      "ad": "Cebeci",
+      "lat": "41.1119217418",
+      "lon": "28.8578071487"
+    },
+    {
+      "ad": "Sultançiftliği",
+      "lat": "41.1061320011",
+      "lon": "28.8606445832"
+    },
+    {
+      "ad": "Hacı Şükrü",
+      "lat": "41.0929087651",
+      "lon": "28.8640033599"
+    },
+    {
+      "ad": "50.Yıl-Baştabya",
+      "lat": "41.08781",
+      "lon": "28.866925"
+    },
+    {
+      "ad": "Cumhuriyet Mahallesi",
+      "lat": "41.0837494209",
+      "lon": "28.8723589675"
+    },
+    {
+      "ad": "Kiptaş-Venezia",
+      "lat": "41.07985707357942",
+      "lon": "28.875993057122308"
+    },
+    {
+      "ad": "Karadeniz",
+      "lat": "41.0752992311",
+      "lon": "28.8822357296"
+    },
+    {
+      "ad": "Taşköprü",
+      "lat": "41.0726579715",
+      "lon": "28.8876475166"
+    },
+    {
+      "ad": "Ali Fuat Başgil",
+      "lat": "41.068493",
+      "lon": "28.895601"
+    },
+    {
+      "ad": "Bosna Çukurçeşme",
+      "lat": "41.061832",
+      "lon": "28.902093"
+    },
+    {
+      "ad": "Uluyol Bereç",
+      "lat": "41.0541381814",
+      "lon": "28.9102461379"
+    },
+    {
+      "ad": "Rami",
+      "lat": "41.046518",
+      "lon": "28.915598"
+    },
+    {
+      "ad": "Topçular",
+      "lat": "41.041546",
+      "lon": "28.919608"
+    },
+    {
+      "ad": "Demirkapı",
+      "lat": "41.0369881849",
+      "lon": "28.923366509"
+    },
+    {
+      "ad": "Şehitlik",
+      "lat": "41.0341823475",
+      "lon": "28.9282530221"
+    },
+    {
+      "ad": "Edirnekapı",
+      "lat": "41.0314409253",
+      "lon": "28.9339710061"
+    },
+    {
+      "ad": "Vatan",
+      "lat": "41.0256946675",
+      "lon": "28.9293559649"
+    },
+    {
+      "ad": "Fetihkapı",
+      "lat": "41.021825006",
+      "lon": "28.9253344699"
+    },
+    {
+      "ad": "Küçükpazar",
+      "lat": "41.0211067072648",
+      "lon": "28.96307565267346"
+    },
+    {
+      "ad": "Cibali",
+      "lat": "41.024336",
+      "lon": "28.960265"
+    },
+    {
+      "ad": "Fener",
+      "lat": "41.028663",
+      "lon": "28.954462"
+    },
+    {
+      "ad": "Balat",
+      "lat": "41.034098",
+      "lon": "28.948012"
+    },
+    {
+      "ad": "Ayvansaray",
+      "lat": "41.039607",
+      "lon": "28.943916"
+    },
+    {
+      "ad": "Feshane",
+      "lat": "41.045456",
+      "lon": "28.937978"
+    },
+    {
+      "ad": "Eyüpsultan Teleferik",
+      "lat": "41.050482",
+      "lon": "28.935202"
+    },
+    {
+      "ad": "Eyüpsultan Devlet Hastanesi",
+      "lat": "41.056765",
+      "lon": "28.941212"
+    },
+    {
+      "ad": "Silahtarağa Mahallesi",
+      "lat": "41.064775",
+      "lon": "28.942874"
+    },
+    {
+      "ad": "Üniversite",
+      "lat": "41.069833",
+      "lon": "28.942865"
+    },
+    {
+      "ad": "Alibeyköy Merkez",
+      "lat": "41.073810",
+      "lon": "28.946063"
+    },
+    {
+      "ad": "Alibeyköy Metro",
+      "lat": "41.078480",
+      "lon": "28.949459"
+    },
+    {
+      "ad": "Alibeyköy Cep Otogarı",
+      "lat": "41.086915",
+      "lon": "28.943988"
+    },
+    {
+      "ad": "Maçka",
+      "lat": "41.0446506053",
+      "lon": "28.9936254852"
+    },
+    {
+      "ad": "Taşkışla",
+      "lat": "41.04367845791161",
+      "lon": "28.99034291338203"
+    },
+    {
+      "ad": "Eyüp",
+      "lat": "41.0505432043",
+      "lon": "28.9339131846"
+    },
+    {
+      "ad": "Piyer Loti",
+      "lat": "41.054193241",
+      "lon": "28.9327417801"
+    }
+  ],
+  "baglantilar": [
+    {
+      "kaynak": "Kabataş",
+      "hedef": "Taksim",
+      "sure": 2
+    },
+    {
+      "kaynak": "Aşiyan",
+      "hedef": "Boğaziçi Ü./Hisarüstü",
+      "sure": 2
+    },
+    {
+      "kaynak": "Atatürk Havalimanı",
+      "hedef": "DTM-İstanbul Fuar Merkezi",
+      "sure": 2
+    },
+    {
+      "kaynak": "DTM-İstanbul Fuar Merkezi",
+      "hedef": "Yenibosna",
+      "sure": 2
+    },
+    {
+      "kaynak": "Yenibosna",
+      "hedef": "Ataköy-Şirinevler",
+      "sure": 2
+    },
+    {
+      "kaynak": "Ataköy-Şirinevler",
+      "hedef": "Bahçelievler",
+      "sure": 2
+    },
+    {
+      "kaynak": "Bahçelievler",
+      "hedef": "Bakırköy-İncirli",
+      "sure": 2
+    },
+    {
+      "kaynak": "Bakırköy-İncirli",
+      "hedef": "Zeytinburnu",
+      "sure": 2
+    },
+    {
+      "kaynak": "Zeytinburnu",
+      "hedef": "Merter",
+      "sure": 2
+    },
+    {
+      "kaynak": "Merter",
+      "hedef": "Davutpaşa-YTÜ",
+      "sure": 2
+    },
+    {
+      "kaynak": "Davutpaşa-YTÜ",
+      "hedef": "Terazidere",
+      "sure": 2
+    },
+    {
+      "kaynak": "Terazidere",
+      "hedef": "Otogar",
+      "sure": 2
+    },
+    {
+      "kaynak": "Otogar",
+      "hedef": "Kocatepe",
+      "sure": 2
+    },
+    {
+      "kaynak": "Kocatepe",
+      "hedef": "Sağmalcılar",
+      "sure": 2
+    },
+    {
+      "kaynak": "Sağmalcılar",
+      "hedef": "Bayrampaşa-Maltepe",
+      "sure": 2
+    },
+    {
+      "kaynak": "Bayrampaşa-Maltepe",
+      "hedef": "Topkapı-Ulubatlı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Topkapı-Ulubatlı",
+      "hedef": "Emniyet-Fatih",
+      "sure": 2
+    },
+    {
+      "kaynak": "Emniyet-Fatih",
+      "hedef": "Aksaray",
+      "sure": 2
+    },
+    {
+      "kaynak": "Aksaray",
+      "hedef": "Yenikapı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Kirazlı-Bağcılar",
+      "hedef": "Bağcılar Meydan",
+      "sure": 2
+    },
+    {
+      "kaynak": "Bağcılar Meydan",
+      "hedef": "Üçyüzlü",
+      "sure": 2
+    },
+    {
+      "kaynak": "Üçyüzlü",
+      "hedef": "Menderes",
+      "sure": 2
+    },
+    {
+      "kaynak": "Menderes",
+      "hedef": "Esenler",
+      "sure": 2
+    },
+    {
+      "kaynak": "Esenler",
+      "hedef": "Otogar",
+      "sure": 2
+    },
+    {
+      "kaynak": "Otogar",
+      "hedef": "Kocatepe",
+      "sure": 2
+    },
+    {
+      "kaynak": "Kocatepe",
+      "hedef": "Sağmalcılar",
+      "sure": 2
+    },
+    {
+      "kaynak": "Sağmalcılar",
+      "hedef": "Bayrampaşa-Maltepe",
+      "sure": 2
+    },
+    {
+      "kaynak": "Bayrampaşa-Maltepe",
+      "hedef": "Topkapı-Ulubatlı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Topkapı-Ulubatlı",
+      "hedef": "Emniyet-Fatih",
+      "sure": 2
+    },
+    {
+      "kaynak": "Emniyet-Fatih",
+      "hedef": "Aksaray",
+      "sure": 2
+    },
+    {
+      "kaynak": "Aksaray",
+      "hedef": "Yenikapı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Yenikapı",
+      "hedef": "Vezneciler-İstanbul Ü.",
+      "sure": 2
+    },
+    {
+      "kaynak": "Vezneciler-İstanbul Ü.",
+      "hedef": "Haliç",
+      "sure": 2
+    },
+    {
+      "kaynak": "Haliç",
+      "hedef": "Şişhane",
+      "sure": 2
+    },
+    {
+      "kaynak": "Şişhane",
+      "hedef": "Taksim",
+      "sure": 2
+    },
+    {
+      "kaynak": "Taksim",
+      "hedef": "Osmanbey",
+      "sure": 2
+    },
+    {
+      "kaynak": "Osmanbey",
+      "hedef": "Şişli-Mecidiyeköy",
+      "sure": 2
+    },
+    {
+      "kaynak": "Şişli-Mecidiyeköy",
+      "hedef": "Gayrettepe",
+      "sure": 2
+    },
+    {
+      "kaynak": "Gayrettepe",
+      "hedef": "Levent",
+      "sure": 2
+    },
+    {
+      "kaynak": "Levent",
+      "hedef": "4.Levent",
+      "sure": 2
+    },
+    {
+      "kaynak": "4.Levent",
+      "hedef": "Sanayi Mahallesi",
+      "sure": 2
+    },
+    {
+      "kaynak": "Sanayi Mahallesi",
+      "hedef": "Seyrantepe",
+      "sure": 2
+    },
+    {
+      "kaynak": "Seyrantepe",
+      "hedef": "İTÜ-Ayazağa",
+      "sure": 2
+    },
+    {
+      "kaynak": "İTÜ-Ayazağa",
+      "hedef": "Atatürk Oto Sanayi",
+      "sure": 2
+    },
+    {
+      "kaynak": "Atatürk Oto Sanayi",
+      "hedef": "Darüşşafaka",
+      "sure": 2
+    },
+    {
+      "kaynak": "Darüşşafaka",
+      "hedef": "Hacıosman",
+      "sure": 2
+    },
+    {
+      "kaynak": "Bakırköy Sahil",
+      "hedef": "Özgürlük Meydanı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Özgürlük Meydanı",
+      "hedef": "İncirli",
+      "sure": 2
+    },
+    {
+      "kaynak": "İncirli",
+      "hedef": "Haznedar",
+      "sure": 2
+    },
+    {
+      "kaynak": "Haznedar",
+      "hedef": "İlkyuva",
+      "sure": 2
+    },
+    {
+      "kaynak": "İlkyuva",
+      "hedef": "Molla Gürani",
+      "sure": 2
+    },
+    {
+      "kaynak": "Molla Gürani",
+      "hedef": "Kirazlı-Bağcılar",
+      "sure": 2
+    },
+    {
+      "kaynak": "Kirazlı-Bağcılar",
+      "hedef": "Yenimahalle",
+      "sure": 2
+    },
+    {
+      "kaynak": "Yenimahalle",
+      "hedef": "Mahmutbey",
+      "sure": 2
+    },
+    {
+      "kaynak": "Mahmutbey",
+      "hedef": "İSTOÇ",
+      "sure": 2
+    },
+    {
+      "kaynak": "İSTOÇ",
+      "hedef": "İkitelli Sanayi",
+      "sure": 2
+    },
+    {
+      "kaynak": "İkitelli Sanayi",
+      "hedef": "Turgut Özal",
+      "sure": 2
+    },
+    {
+      "kaynak": "Turgut Özal",
+      "hedef": "Siteler",
+      "sure": 2
+    },
+    {
+      "kaynak": "Siteler",
+      "hedef": "Başak Konutları",
+      "sure": 2
+    },
+    {
+      "kaynak": "Başak Konutları",
+      "hedef": "Başakşehir-Metrokent",
+      "sure": 2
+    },
+    {
+      "kaynak": "Başakşehir-Metrokent",
+      "hedef": "Onurkent",
+      "sure": 2
+    },
+    {
+      "kaynak": "Onurkent",
+      "hedef": "Şehir Hastanesi",
+      "sure": 2
+    },
+    {
+      "kaynak": "Şehir Hastanesi",
+      "hedef": "Toplu Konutlar",
+      "sure": 2
+    },
+    {
+      "kaynak": "Toplu Konutlar",
+      "hedef": "Kayaşehir Merkez",
+      "sure": 2
+    },
+    {
+      "kaynak": "Kadıköy",
+      "hedef": "Ayrılık Çeşmesi",
+      "sure": 2
+    },
+    {
+      "kaynak": "Ayrılık Çeşmesi",
+      "hedef": "Acıbadem",
+      "sure": 2
+    },
+    {
+      "kaynak": "Acıbadem",
+      "hedef": "Ünalan",
+      "sure": 2
+    },
+    {
+      "kaynak": "Ünalan",
+      "hedef": "Göztepe",
+      "sure": 2
+    },
+    {
+      "kaynak": "Göztepe",
+      "hedef": "Yenisahra",
+      "sure": 2
+    },
+    {
+      "kaynak": "Yenisahra",
+      "hedef": "Pegasus-Kozyatağı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Pegasus-Kozyatağı",
+      "hedef": "Bostancı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Bostancı",
+      "hedef": "Küçükyalı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Küçükyalı",
+      "hedef": "Maltepe",
+      "sure": 2
+    },
+    {
+      "kaynak": "Maltepe",
+      "hedef": "Huzurevi",
+      "sure": 2
+    },
+    {
+      "kaynak": "Huzurevi",
+      "hedef": "Gülsuyu",
+      "sure": 2
+    },
+    {
+      "kaynak": "Gülsuyu",
+      "hedef": "Esenkent",
+      "sure": 2
+    },
+    {
+      "kaynak": "Esenkent",
+      "hedef": "Hastane-Adliye",
+      "sure": 2
+    },
+    {
+      "kaynak": "Hastane-Adliye",
+      "hedef": "Soğanlık",
+      "sure": 2
+    },
+    {
+      "kaynak": "Soğanlık",
+      "hedef": "Kartal",
+      "sure": 2
+    },
+    {
+      "kaynak": "Kartal",
+      "hedef": "Yakacık-Adnan Kahveci",
+      "sure": 2
+    },
+    {
+      "kaynak": "Yakacık-Adnan Kahveci",
+      "hedef": "Pendik",
+      "sure": 2
+    },
+    {
+      "kaynak": "Pendik",
+      "hedef": "Tavşantepe",
+      "sure": 2
+    },
+    {
+      "kaynak": "Tavşantepe",
+      "hedef": "Fevzi Çakmak-Hastane",
+      "sure": 2
+    },
+    {
+      "kaynak": "Fevzi Çakmak-Hastane",
+      "hedef": "Yayalar-Şeyhli",
+      "sure": 2
+    },
+    {
+      "kaynak": "Yayalar-Şeyhli",
+      "hedef": "Kurtköy",
+      "sure": 2
+    },
+    {
+      "kaynak": "Kurtköy",
+      "hedef": "Sabiha Gökçen Havalimanı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Üsküdar",
+      "hedef": "Fıstıkağacı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Fıstıkağacı",
+      "hedef": "Bağlarbaşı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Bağlarbaşı",
+      "hedef": "Altunizade",
+      "sure": 2
+    },
+    {
+      "kaynak": "Altunizade",
+      "hedef": "Kısıklı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Kısıklı",
+      "hedef": "Bulgurlu",
+      "sure": 2
+    },
+    {
+      "kaynak": "Bulgurlu",
+      "hedef": "Ümraniye",
+      "sure": 2
+    },
+    {
+      "kaynak": "Ümraniye",
+      "hedef": "Çarşı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Çarşı",
+      "hedef": "Yamanevler",
+      "sure": 2
+    },
+    {
+      "kaynak": "Yamanevler",
+      "hedef": "Çakmak",
+      "sure": 2
+    },
+    {
+      "kaynak": "Çakmak",
+      "hedef": "Ihlamurkuyu",
+      "sure": 2
+    },
+    {
+      "kaynak": "Ihlamurkuyu",
+      "hedef": "Altınşehir",
+      "sure": 2
+    },
+    {
+      "kaynak": "Altınşehir",
+      "hedef": "İmam Hatip Lisesi",
+      "sure": 2
+    },
+    {
+      "kaynak": "İmam Hatip Lisesi",
+      "hedef": "Dudullu",
+      "sure": 2
+    },
+    {
+      "kaynak": "Dudullu",
+      "hedef": "Necip Fazıl",
+      "sure": 2
+    },
+    {
+      "kaynak": "Necip Fazıl",
+      "hedef": "Çekmeköy",
+      "sure": 2
+    },
+    {
+      "kaynak": "Çekmeköy",
+      "hedef": "Meclis",
+      "sure": 2
+    },
+    {
+      "kaynak": "Meclis",
+      "hedef": "Sarıgazi",
+      "sure": 2
+    },
+    {
+      "kaynak": "Sarıgazi",
+      "hedef": "Sancaktepe",
+      "sure": 2
+    },
+    {
+      "kaynak": "Sancaktepe",
+      "hedef": "Samandıra Merkez",
+      "sure": 2
+    },
+    {
+      "kaynak": "Levent",
+      "hedef": "Nispetiye",
+      "sure": 2
+    },
+    {
+      "kaynak": "Nispetiye",
+      "hedef": "Etiler",
+      "sure": 2
+    },
+    {
+      "kaynak": "Etiler",
+      "hedef": "Boğaziçi Ü.-Hisarüstü",
+      "sure": 2
+    },
+    {
+      "kaynak": "Yıldız",
+      "hedef": "Fulya",
+      "sure": 2
+    },
+    {
+      "kaynak": "Fulya",
+      "hedef": "Mecidiyeköy",
+      "sure": 2
+    },
+    {
+      "kaynak": "Mecidiyeköy",
+      "hedef": "Çağlayan",
+      "sure": 2
+    },
+    {
+      "kaynak": "Çağlayan",
+      "hedef": "Kağıthane",
+      "sure": 2
+    },
+    {
+      "kaynak": "Kağıthane",
+      "hedef": "Nurtepe",
+      "sure": 2
+    },
+    {
+      "kaynak": "Nurtepe",
+      "hedef": "Alibeyköy",
+      "sure": 2
+    },
+    {
+      "kaynak": "Alibeyköy",
+      "hedef": "Çırçır Mahallesi",
+      "sure": 2
+    },
+    {
+      "kaynak": "Çırçır Mahallesi",
+      "hedef": "Veysel Karani-Akşemsettin",
+      "sure": 2
+    },
+    {
+      "kaynak": "Veysel Karani-Akşemsettin",
+      "hedef": "Yeşilpınar",
+      "sure": 2
+    },
+    {
+      "kaynak": "Yeşilpınar",
+      "hedef": "Kazım Karabekir",
+      "sure": 2
+    },
+    {
+      "kaynak": "Kazım Karabekir",
+      "hedef": "Yenimahalle",
+      "sure": 2
+    },
+    {
+      "kaynak": "Yenimahalle",
+      "hedef": "Karadeniz Mahallesi",
+      "sure": 2
+    },
+    {
+      "kaynak": "Karadeniz Mahallesi",
+      "hedef": "Tekstilkent-Giyimkent",
+      "sure": 2
+    },
+    {
+      "kaynak": "Tekstilkent-Giyimkent",
+      "hedef": "Oruç Reis",
+      "sure": 2
+    },
+    {
+      "kaynak": "Oruç Reis",
+      "hedef": "Göztepe Mahallesi",
+      "sure": 2
+    },
+    {
+      "kaynak": "Göztepe Mahallesi",
+      "hedef": "Mahmutbey",
+      "sure": 2
+    },
+    {
+      "kaynak": "Bostancı",
+      "hedef": "Emin Ali Paşa",
+      "sure": 2
+    },
+    {
+      "kaynak": "Emin Ali Paşa",
+      "hedef": "Ayşekadın",
+      "sure": 2
+    },
+    {
+      "kaynak": "Ayşekadın",
+      "hedef": "Kozyatağı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Kozyatağı",
+      "hedef": "Küçükbakkalköy",
+      "sure": 2
+    },
+    {
+      "kaynak": "Küçükbakkalköy",
+      "hedef": "İçerenköy",
+      "sure": 2
+    },
+    {
+      "kaynak": "İçerenköy",
+      "hedef": "Kayışdağı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Kayışdağı",
+      "hedef": "Mevlana",
+      "sure": 2
+    },
+    {
+      "kaynak": "Mevlana",
+      "hedef": "İMES",
+      "sure": 2
+    },
+    {
+      "kaynak": "İMES",
+      "hedef": "MODOKO-KEYAP",
+      "sure": 2
+    },
+    {
+      "kaynak": "MODOKO-KEYAP",
+      "hedef": "Dudullu",
+      "sure": 2
+    },
+    {
+      "kaynak": "Dudullu",
+      "hedef": "Huzur",
+      "sure": 2
+    },
+    {
+      "kaynak": "Huzur",
+      "hedef": "Parseller",
+      "sure": 2
+    },
+    {
+      "kaynak": "Olimpiyat",
+      "hedef": "Ziya Gökalp Mahallesi",
+      "sure": 2
+    },
+    {
+      "kaynak": "Ziya Gökalp Mahallesi",
+      "hedef": "İkitelli Sanayi",
+      "sure": 2
+    },
+    {
+      "kaynak": "İkitelli Sanayi",
+      "hedef": "MASKO",
+      "sure": 2
+    },
+    {
+      "kaynak": "MASKO",
+      "hedef": "Bahariye",
+      "sure": 2
+    },
+    {
+      "kaynak": "Bahariye",
+      "hedef": "Atatürk Mahallesi",
+      "sure": 2
+    },
+    {
+      "kaynak": "Atatürk Mahallesi",
+      "hedef": "Halkalı Caddesi",
+      "sure": 2
+    },
+    {
+      "kaynak": "Halkalı Caddesi",
+      "hedef": "15 Temmuz",
+      "sure": 2
+    },
+    {
+      "kaynak": "15 Temmuz",
+      "hedef": "Mimar Sinan",
+      "sure": 2
+    },
+    {
+      "kaynak": "Mimar Sinan",
+      "hedef": "Doğu Sanayi",
+      "sure": 2
+    },
+    {
+      "kaynak": "Doğu Sanayi",
+      "hedef": "29 Ekim Cumhuriyet",
+      "sure": 2
+    },
+    {
+      "kaynak": "29 Ekim Cumhuriyet",
+      "hedef": "Çobançeşme",
+      "sure": 2
+    },
+    {
+      "kaynak": "Çobançeşme",
+      "hedef": "Yenibosna",
+      "sure": 2
+    },
+    {
+      "kaynak": "Yenibosna",
+      "hedef": "Ataköy",
+      "sure": 2
+    },
+    {
+      "kaynak": "Bağcılar",
+      "hedef": "Güneştepe",
+      "sure": 2
+    },
+    {
+      "kaynak": "Güneştepe",
+      "hedef": "Yavuzselim",
+      "sure": 2
+    },
+    {
+      "kaynak": "Yavuzselim",
+      "hedef": "Soğanlı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Soğanlı",
+      "hedef": "Akıncılar",
+      "sure": 2
+    },
+    {
+      "kaynak": "Akıncılar",
+      "hedef": "Güngören",
+      "sure": 2
+    },
+    {
+      "kaynak": "Güngören",
+      "hedef": "Merter Tekstil Merkezi",
+      "sure": 2
+    },
+    {
+      "kaynak": "Merter Tekstil Merkezi",
+      "hedef": "Mehmet Akif",
+      "sure": 2
+    },
+    {
+      "kaynak": "Mehmet Akif",
+      "hedef": "Zeytinburnu",
+      "sure": 2
+    },
+    {
+      "kaynak": "Zeytinburnu",
+      "hedef": "Mithatpaşa",
+      "sure": 2
+    },
+    {
+      "kaynak": "Mithatpaşa",
+      "hedef": "Seyitnizam-Akşemsettin",
+      "sure": 2
+    },
+    {
+      "kaynak": "Seyitnizam-Akşemsettin",
+      "hedef": "Merkezefendi",
+      "sure": 2
+    },
+    {
+      "kaynak": "Merkezefendi",
+      "hedef": "Cevizlibağ-AÖY",
+      "sure": 2
+    },
+    {
+      "kaynak": "Cevizlibağ-AÖY",
+      "hedef": "Topkapı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Topkapı",
+      "hedef": "Pazartekke",
+      "sure": 2
+    },
+    {
+      "kaynak": "Pazartekke",
+      "hedef": "Çapa-Şehremini",
+      "sure": 2
+    },
+    {
+      "kaynak": "Çapa-Şehremini",
+      "hedef": "Fındıkzade",
+      "sure": 2
+    },
+    {
+      "kaynak": "Fındıkzade",
+      "hedef": "Haseki",
+      "sure": 2
+    },
+    {
+      "kaynak": "Haseki",
+      "hedef": "Yusufpaşa",
+      "sure": 2
+    },
+    {
+      "kaynak": "Yusufpaşa",
+      "hedef": "Aksaray",
+      "sure": 2
+    },
+    {
+      "kaynak": "Aksaray",
+      "hedef": "Laleli-İstanbul Ü.",
+      "sure": 2
+    },
+    {
+      "kaynak": "Laleli-İstanbul Ü.",
+      "hedef": "Beyazıt-Kapalıçarşı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Beyazıt-Kapalıçarşı",
+      "hedef": "Çemberlitaş",
+      "sure": 2
+    },
+    {
+      "kaynak": "Çemberlitaş",
+      "hedef": "Sultanahmet",
+      "sure": 2
+    },
+    {
+      "kaynak": "Sultanahmet",
+      "hedef": "Gülhane",
+      "sure": 2
+    },
+    {
+      "kaynak": "Gülhane",
+      "hedef": "Sirkeci",
+      "sure": 2
+    },
+    {
+      "kaynak": "Sirkeci",
+      "hedef": "Eminönü",
+      "sure": 2
+    },
+    {
+      "kaynak": "Eminönü",
+      "hedef": "Karaköy",
+      "sure": 2
+    },
+    {
+      "kaynak": "Karaköy",
+      "hedef": "Tophane",
+      "sure": 2
+    },
+    {
+      "kaynak": "Tophane",
+      "hedef": "Fındıklı-Mimar Sinan Ü.",
+      "sure": 2
+    },
+    {
+      "kaynak": "Fındıklı-Mimar Sinan Ü.",
+      "hedef": "Kabataş",
+      "sure": 2
+    },
+    {
+      "kaynak": "İskele Cami",
+      "hedef": "Çarşı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Çarşı",
+      "hedef": "Altıyol",
+      "sure": 2
+    },
+    {
+      "kaynak": "Altıyol",
+      "hedef": "Bahariye",
+      "sure": 2
+    },
+    {
+      "kaynak": "Bahariye",
+      "hedef": "Kilise",
+      "sure": 2
+    },
+    {
+      "kaynak": "Kilise",
+      "hedef": "Moda İlkokulu",
+      "sure": 2
+    },
+    {
+      "kaynak": "Moda İlkokulu",
+      "hedef": "Moda Caddesi",
+      "sure": 2
+    },
+    {
+      "kaynak": "Moda Caddesi",
+      "hedef": "Rızapaşa",
+      "sure": 2
+    },
+    {
+      "kaynak": "Rızapaşa",
+      "hedef": "Mühürdar",
+      "sure": 2
+    },
+    {
+      "kaynak": "Mühürdar",
+      "hedef": "Damga Sokak",
+      "sure": 2
+    },
+    {
+      "kaynak": "Damga Sokak",
+      "hedef": "Kadıköy İDO",
+      "sure": 2
+    },
+    {
+      "kaynak": "Mescid-i Selam",
+      "hedef": "Cebeci",
+      "sure": 2
+    },
+    {
+      "kaynak": "Cebeci",
+      "hedef": "Sultançiftliği",
+      "sure": 2
+    },
+    {
+      "kaynak": "Sultançiftliği",
+      "hedef": "Yenimahalle",
+      "sure": 2
+    },
+    {
+      "kaynak": "Yenimahalle",
+      "hedef": "Hacı Şükrü",
+      "sure": 2
+    },
+    {
+      "kaynak": "Hacı Şükrü",
+      "hedef": "50.Yıl-Baştabya",
+      "sure": 2
+    },
+    {
+      "kaynak": "50.Yıl-Baştabya",
+      "hedef": "Cumhuriyet Mahallesi",
+      "sure": 2
+    },
+    {
+      "kaynak": "Cumhuriyet Mahallesi",
+      "hedef": "Kiptaş-Venezia",
+      "sure": 2
+    },
+    {
+      "kaynak": "Kiptaş-Venezia",
+      "hedef": "Karadeniz",
+      "sure": 2
+    },
+    {
+      "kaynak": "Karadeniz",
+      "hedef": "Taşköprü",
+      "sure": 2
+    },
+    {
+      "kaynak": "Taşköprü",
+      "hedef": "Ali Fuat Başgil",
+      "sure": 2
+    },
+    {
+      "kaynak": "Ali Fuat Başgil",
+      "hedef": "Bosna Çukurçeşme",
+      "sure": 2
+    },
+    {
+      "kaynak": "Bosna Çukurçeşme",
+      "hedef": "Sağmalcılar",
+      "sure": 2
+    },
+    {
+      "kaynak": "Sağmalcılar",
+      "hedef": "Uluyol Bereç",
+      "sure": 2
+    },
+    {
+      "kaynak": "Uluyol Bereç",
+      "hedef": "Rami",
+      "sure": 2
+    },
+    {
+      "kaynak": "Rami",
+      "hedef": "Topçular",
+      "sure": 2
+    },
+    {
+      "kaynak": "Topçular",
+      "hedef": "Demirkapı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Demirkapı",
+      "hedef": "Şehitlik",
+      "sure": 2
+    },
+    {
+      "kaynak": "Şehitlik",
+      "hedef": "Edirnekapı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Edirnekapı",
+      "hedef": "Vatan",
+      "sure": 2
+    },
+    {
+      "kaynak": "Vatan",
+      "hedef": "Fetihkapı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Fetihkapı",
+      "hedef": "Topkapı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Eminönü",
+      "hedef": "Küçükpazar",
+      "sure": 2
+    },
+    {
+      "kaynak": "Küçükpazar",
+      "hedef": "Cibali",
+      "sure": 2
+    },
+    {
+      "kaynak": "Cibali",
+      "hedef": "Fener",
+      "sure": 2
+    },
+    {
+      "kaynak": "Fener",
+      "hedef": "Balat",
+      "sure": 2
+    },
+    {
+      "kaynak": "Balat",
+      "hedef": "Ayvansaray",
+      "sure": 2
+    },
+    {
+      "kaynak": "Ayvansaray",
+      "hedef": "Feshane",
+      "sure": 2
+    },
+    {
+      "kaynak": "Feshane",
+      "hedef": "Eyüpsultan Teleferik",
+      "sure": 2
+    },
+    {
+      "kaynak": "Eyüpsultan Teleferik",
+      "hedef": "Eyüpsultan Devlet Hastanesi",
+      "sure": 2
+    },
+    {
+      "kaynak": "Eyüpsultan Devlet Hastanesi",
+      "hedef": "Silahtarağa Mahallesi",
+      "sure": 2
+    },
+    {
+      "kaynak": "Silahtarağa Mahallesi",
+      "hedef": "Üniversite",
+      "sure": 2
+    },
+    {
+      "kaynak": "Üniversite",
+      "hedef": "Alibeyköy Merkez",
+      "sure": 2
+    },
+    {
+      "kaynak": "Alibeyköy Merkez",
+      "hedef": "Alibeyköy Metro",
+      "sure": 2
+    },
+    {
+      "kaynak": "Alibeyköy Metro",
+      "hedef": "Alibeyköy Cep Otogarı",
+      "sure": 2
+    },
+    {
+      "kaynak": "Maçka",
+      "hedef": "Taşkışla",
+      "sure": 2
+    },
+    {
+      "kaynak": "Eyüp",
+      "hedef": "Piyer Loti",
+      "sure": 2
+    }
+  ]
+}
